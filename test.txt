@@ -1,3 +1,5 @@
 Makanan
 - Nasi Goreng
 - Mie Goreng
+- Nasi Kuning
+- Bakso
